@@ -1,1 +1,1 @@
-# RN-business-mobile
+Integrated React Native Push Notification
